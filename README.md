@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davemiller72
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in music (guitars and songwriting mainly)
 - 🌱 I’m currently learning Kotlin for Android
 - 💞️ I’m looking to collaborate on: not sure yet. 
