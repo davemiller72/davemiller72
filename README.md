@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dave
 - 👀 I’m interested in music (guitars and songwriting mainly)
-- 🌱 I’m currently learning Kotlin for Android
+- 🌱 I’m currently learning Dart/Flutter anf React.
 - 💞️ I’m looking to collaborate on: not sure yet. 
 
 <p>Following a computer science degree, I worked for 15 or so years as a software developer in various industries, including education, scientific instruments, business systems and proteomic analysis software. Mainly using c, C++, C# - the usual progression.</p>
